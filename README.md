@@ -2,6 +2,7 @@
 Technical Mentors Notes at Zindua for Python Programming
 
 The structure for the course will be as follows : 
+
     Week 1: Python Foundations (Foundations and Foundational Data Types)
    
     Week 2: Intermediate Python (Data Types, Conventions, and Regex)
